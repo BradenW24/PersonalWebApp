@@ -44,11 +44,17 @@ header{
 .font_size{
     font-size: 30px;
     background: transparent;
-    margin-left: 20px;
+    margin-left: 300px;
 }
 .images{
     background: transparent;
 }
 .box{
     border: 2px solid black ;
+}
+.New_Link{
+    background: transparent;
+    background-color: transparent;
+    font-size: 30px;
+    color: rgb(221, 13, 13);
 }
