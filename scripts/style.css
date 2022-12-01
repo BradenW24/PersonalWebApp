@@ -24,20 +24,16 @@ header{
     padding: 30px 10%;
     background-color:rgb(8, 55, 82);
 }
-
 .nav_links{
     list-style: none;
 }
-
 .nav_links li{
     display: inline-block;
     padding: 0px 20px;
 }
-
 .nav_links li a{
     transition: all 0.3 ease 0s;
 }
-
 .nav_links li a:hover{
     color: #008a90;
 }
@@ -48,17 +44,21 @@ header{
     margin-left: 35%;
     margin-top: 20px;
 }
-.images{
-    background: transparent;
-    margin-left: 43%;
-    margin-top: 40px;
-}
-.box{
-    border: 2px solid black ;
-}
+
 .New_Link{
     background: transparent;
     background-color: transparent;
     font-size: 30px;
     color: rgb(221, 13, 13);
+}
+#welcomeImage{
+    background: transparent;
+    margin-left: 18%;
+    margin-top: 40px;
+}
+#welcome{
+    font-size: 30px;
+    background: transparent;
+    float: left;
+    margin-left: 15%;
 }
